@@ -39,11 +39,11 @@ Tableau
 
 ## Dashboard Preview
 
-![Shipment Dashboard](dashboard%1.png)
+![Shipment Dashboard](dashboard_1.png)
 
-![Delivery Dashboard](dashboard%2.png)
+![Delivery Dashboard](dashboard_2.png)
 
-![Sales Dashboard](dashboard%3.png)
+![Sales Dashboard](dashboard_3.png)
 
 ---
 
