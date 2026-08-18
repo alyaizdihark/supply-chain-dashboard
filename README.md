@@ -45,7 +45,7 @@ Tableau
 
 ## Tableau Dashboard
 
-🔗 **Dashboard Link:** 
+🔗 **Dashboard Link:** https://public.tableau.com/views/Supply_Chain_Dashboard_17870710640650/SHIPMENT?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
