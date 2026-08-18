@@ -39,7 +39,9 @@ Tableau
 
 ## Dashboard Preview
 
-![Dashboard](dashboard1 1.png)(dashboard1 2.png)(dashboard1 3.png)
+![Dashboard](dashboard1 1.png)
+(dashboard1 2.png)
+(dashboard1 3.png)
 
 ---
 
