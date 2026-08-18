@@ -86,5 +86,5 @@ Tableau
 | File | Description |
 | --- | --- |
 | `README.md` | Project documentation and summary |
-| ` Supply_Chain_Dashboard.twbx` | Tableau packaged workbook |
+| `Supply_Chain_Dashboard.twbx` | Tableau packaged workbook |
 | `dashboard.png` | Tableau dashboard preview |
